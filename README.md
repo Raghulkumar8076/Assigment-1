@@ -1,10 +1,8 @@
 # Assigment-1
 Youtube-Data-Harvesting-And-Warehousing YouTube Data Harvesting and Warehousing is a project that intends to provide users with the ability to access and analyse data from numerous YouTube channels.
 
-
-TOOLS AND LIBRARIES USED: this project requires the following components:
-
 https://www.linkedin.com/in/raghulkumar-chandrasekaran-9a248753/
+TOOLS AND LIBRARIES USED: this project requires the following components:
 
 STREAMLIT: Streamlit library was used to create a user-friendly UI that enables users to interact with the programme and carry out data retrieval and analysis operations.
 
@@ -15,7 +13,6 @@ GOOGLE API CLIENT: The googleapiclient library in Python facilitates the communi
 MONGODB: MongoDB is built on a scale-out architecture that has become popular with developers of all kinds for developing scalable applications with evolving data schemas. As a document database, MongoDB makes it easy for developers to store structured or unstructured data. It uses a JSON-like format to store documents.
 
 POSTGRESQL: PostgreSQL is an open-source, advanced, and highly scalable database management system (DBMS) known for its reliability and extensive features. It provides a platform for storing and managing structured data, offering support for various data types and advanced SQL capabilities.
-
 
 REQUIRED LIBRARIES:
 
